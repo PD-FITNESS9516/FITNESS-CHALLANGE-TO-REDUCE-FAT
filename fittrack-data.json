@@ -7,5 +7,10 @@
       "unit": "kg"
     }
   ],
-  "calorieIntake": []
+  "calorieIntake": [
+    {
+      "date": "2025-07-22T18:56:48.692Z",
+      "calories": 2200
+    }
+  ]
 }
